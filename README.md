@@ -1,7 +1,22 @@
 # Imabiliária
 
-Sistema para imobiliarias feito no Laravel com layout do Filament PHP, 
+Sistema para imobiliarias feito no Laravel com layout do Filament PHP.
 
+Você pode fazer o download do .zip do repositório e depois linkar através de qualquer IDE ou Git CLI
+
+## Usando Git para clonar o respositório
+
+Caso decida clonar pelo Git diretamente do seu terminal
+
+Via Https
+```
+git clone https://github.com/abnerdsr/imobiliaria.git imobiliaria
+```
+
+Vis SSH
+```
+git clone git@github.com:abnerdsr/imobiliaria.git imobiliaria
+```
 
 ## Documentações para estudo necessário no projeto
 
