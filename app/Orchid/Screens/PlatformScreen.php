@@ -27,7 +27,7 @@ class PlatformScreen extends Screen
      */
     public function name(): ?string
     {
-        return 'Get Started';
+        return 'Bora Codar';
     }
 
     /**
@@ -37,7 +37,7 @@ class PlatformScreen extends Screen
      */
     public function description(): ?string
     {
-        return 'Welcome to your Orchid application.';
+        return 'Bem vindo a Aplicação Orchid da nossa Imobiliaria.';
     }
 
     /**

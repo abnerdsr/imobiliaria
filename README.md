@@ -1,6 +1,19 @@
 # Imabiliária
 
-Sistema para imobiliarias
+Sistema para imobiliarias feito no Laravel com layout do Orchid, 
+
+
+## Documentações para estudo necessário no projeto
+
+Laravel https://laravel.com/
+
+Orchid https://orchid.software/
+
+Tailwind https://tailwindcss.com/
+
+Liveware https://laravel-livewire.com/
+
+AlpineJs https://alpinejs.dev/
 
 ## Requerimentos
 

@@ -17,6 +17,6 @@
 
     <p class="ms-3 my-0 d-none d-sm-block">
         ORCHID
-        <small class="align-top opacity">Platform</small>
+        <small class="align-top opacity">Imobiliária</small>
     </p>
 </div>
