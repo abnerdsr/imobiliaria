@@ -1,13 +1,13 @@
 # Imabiliária
 
-Sistema para imobiliarias feito no Laravel com layout do Orchid, 
+Sistema para imobiliarias feito no Laravel com layout do Filament PHP, 
 
 
 ## Documentações para estudo necessário no projeto
 
 Laravel https://laravel.com/
 
-Orchid https://orchid.software/
+Filament PHP https://filamentphp.com/
 
 Tailwind https://tailwindcss.com/
 
