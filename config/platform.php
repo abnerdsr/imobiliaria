@@ -49,7 +49,7 @@ return [
 
     'middleware' => [
         'public'  => ['web'],
-        'private' => ['web', 'platform'],
+        'private' => ['web', 'auth:sanctum', config('jetstream.auth_session')],
     ],
 
     /*

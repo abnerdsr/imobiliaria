@@ -1,7 +1,8 @@
 <x-guest-layout>
     <x-jet-authentication-card>
         <x-slot name="logo">
-            <x-jet-authentication-card-logo />
+            {{-- <x-jet-authentication-card-logo /> --}}
+            <div style="color: blue"><x-svg-logo-orchid width="4em" height="4em" /></div>
         </x-slot>
 
         <x-jet-validation-errors class="mb-4" />

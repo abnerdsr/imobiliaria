@@ -83,6 +83,11 @@ faça a build do projeto front
 ./vendor/bin/sail npm run build
 ```
 
+crie o usuário admin para acesso
+```
+./vendor/bin/sail artisan orchid:admin
+```
+
 Acesse o projeto
 ```
 http://localhost
@@ -128,6 +133,11 @@ php artisan horizon
 inicie o servidor
 ```
 php artisan octane:start --server=swoole --host=0.0.0.0 --port=80 --watch
+```
+
+crie o usuário admin para acesso
+```
+php artisan orchid:admin
 ```
 
 
